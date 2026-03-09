@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:alaaelhussein.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:alaa.elhussein.m68@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/alaaelhussein"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/alaaelhussein"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/alaa-el-hussein-84338a344/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
@@ -79,8 +79,8 @@ Application Symfony avec routing, contrôleurs, Twig et gestion de données dyna
 
 ## 📫 Me contacter
 
-- 💼 LinkedIn : [linkedin.com/in/alaaelhussein](https://www.linkedin.com/in/alaaelhussein)
-- 📧 Email : alaaelhussein.dev@gmail.com
+- 💼 LinkedIn : [linkedin.com/in/alaaelhussein](https://www.linkedin.com/in/alaa-el-hussein-84338a344/)
+- 📧 Email : alaa.elhussein.m68@gmail.com
 - 🐙 GitHub : [github.com/alaaelhussein](https://github.com/alaaelhussein)
 
 ---
