@@ -75,8 +75,12 @@ Application Symfony avec routing, contrôleurs, Twig et gestion de données dyna
     <img src="https://streak-stats.demolab.com?user=alaaelhussein&theme=tokyonight&hide_border=true&locale=fr" alt="GitHub Streak" height="150"/>
   </a>
   <br/>
-  <a href="https://github.com/alaaelhussein">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaaelhussein&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langs" height="150"/>
+  **Langages les plus utilisés :**
+
+  ![PHP](https://img.shields.io/badge/PHP-60%25-777BB4?style=flat-square&logo=php&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-20%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![HTML%2FCSS](https://img.shields.io/badge/HTML%2FCSS-15%25-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-5%25-4479A1?style=flat-square&logo=mysql&logoColor=white)
   </a>
 </p>
 
