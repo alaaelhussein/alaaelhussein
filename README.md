@@ -71,8 +71,13 @@ Application Symfony avec routing, contrôleurs, Twig et gestion de données dyna
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alaaelhussein&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaaelhussein&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <a href="https://github.com/alaaelhussein">
+    <img src="https://streak-stats.demolab.com?user=alaaelhussein&theme=tokyonight&hide_border=true&locale=fr" alt="GitHub Streak" height="150"/>
+  </a>
+  <br/>
+  <a href="https://github.com/alaaelhussein">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaaelhussein&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langs" height="150"/>
+  </a>
 </p>
 
 ---
